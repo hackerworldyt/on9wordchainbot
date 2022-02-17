@@ -24,7 +24,7 @@
         "required": true
       },
       "DB_URI": {
-        "description": "Fill Api hash Take this value from My.telegram.org",
+        "description": "A PostgresSQL database URI.",
         "value": "",
         "required": false
       },
