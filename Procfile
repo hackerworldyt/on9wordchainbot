@@ -1,1 +1,1 @@
-worker: bash DeadlyX
+worker: bash run_forever.py
