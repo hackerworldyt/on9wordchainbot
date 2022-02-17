@@ -35,7 +35,7 @@
       },
       "OWNER_ID": {
         "description": "Telegram user id of the bot owner.",
-        "value": "@iamhackerworld",
+        "value": "5117196135",
         "required": true
       },
       "ADMIN_GROUP_ID": {
@@ -45,7 +45,7 @@
       },
       "OFFICIAL_GROUP_ID": {
         "description": "Telegram group id of the official group of the bot.",
-        "value": "https://t.me/HwMusicUpdates",
+        "value": "https://t.me/HwBotSupport",
         "required": true
       },
       "WORD_ADDITION_CHANNEL_ID": {
